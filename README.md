@@ -1,9 +1,9 @@
 # opencourrier
-Procedure de déploiement d’Opencourrier sur un serveur Debian 8
+Procedure de déploiement d’Opencourrier sur un serveur Debian 8  
 
-> apt-get install apache2
-> apt-get install php5
-> apt-get install postgresql  postgresql-client
+> apt-get install apache2  
+> apt-get install php5  
+> apt-get install postgresql  postgresql-client  
 > apt-get install sudo
 > sudo-s –u postgres
 > psql 
